@@ -1,5 +1,8 @@
-github.com/podhmo/multi-package-example v0.0.0-20210515053431-7cd0103c450b h1:3HKcJ0RjJk3heUVdaxGGB7fdIGRKA175QAQvhDCHZKU=
 github.com/podhmo/multi-package-example/go/bar v0.0.0 h1:DuM0uUv/BxFL6ozgMTQiMuYJ8rBBV8S/WoD8Gcc3+W8=
 github.com/podhmo/multi-package-example/go/bar v0.0.0/go.mod h1:BojkR7ziP+UJYfmzD5qSex1Z8fChLkCQoZ68WAzVOjI=
+github.com/podhmo/multi-package-example/go/bar v0.1.1 h1:xBwzqaJBUUXGyeEwnZDmzFwqNkgZtqViUodGXjzOarA=
+github.com/podhmo/multi-package-example/go/bar v0.1.1/go.mod h1:BojkR7ziP+UJYfmzD5qSex1Z8fChLkCQoZ68WAzVOjI=
 github.com/podhmo/multi-package-example/go/foo v0.0.0 h1:bjqbRoIBYl1jTogQOaRYVAil5pTthVxl/oK6TTSSe/o=
 github.com/podhmo/multi-package-example/go/foo v0.0.0/go.mod h1:54fp0cxO5NLQ0QixRqDADBEafW54IANPcsG13Ktn1Lw=
+github.com/podhmo/multi-package-example/go/foo v0.1.1 h1:hKAgJ4xiC7FRBfYr98uREumS+nyBMuRmD9aOMQeyDMg=
+github.com/podhmo/multi-package-example/go/foo v0.1.1/go.mod h1:54fp0cxO5NLQ0QixRqDADBEafW54IANPcsG13Ktn1Lw=

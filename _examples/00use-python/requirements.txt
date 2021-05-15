@@ -1,2 +1,2 @@
-git+https://github.com/podhmo/multi-package-example@main#egg=foo&subdirectory=python/foo
-git+https://github.com/podhmo/multi-package-example@main#egg=bar&subdirectory=python/bar
+git+https://github.com/podhmo/multi-package-example@v0.1.1#egg=foo&subdirectory=python/foo
+git+https://github.com/podhmo/multi-package-example@v0.1.1#egg=bar&subdirectory=python/bar
