@@ -1,5 +1,5 @@
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 def hello():
-    print("hello from bar")
+    print(f"hello from bar ({__version__})")

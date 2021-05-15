@@ -1,4 +1,4 @@
-VERSION = 0.0.0
+VERSION = 0.1.1
 
 publish-go:
 	git tag -f go/foo/v$(VERSION)
@@ -9,3 +9,7 @@ publish-go:
 publish-python:
 	echo nothing to do
 .PHONY: publish-python
+
+publish-root:
+	git tag -f v$(VERSION)
+.PHONY: publish-root
