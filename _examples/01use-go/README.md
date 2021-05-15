@@ -1,6 +1,6 @@
 ```console
 $ make
-.venv/bin/python main.py
+go run main.go
 hello from foo (0.1.1)
 hello from bar (0.1.1)
 ```
